@@ -4,10 +4,7 @@
 関西ブリッジ運送のWebサイトのために制作した、WordPressオリジナルテーマです。
 
 🛠 使用技術
-WordPress
-PHP
-HTML / CSS
-JavaScript
+WordPress / PHP / HTML / CSS / JavaScript
 
 💡 実装内容
 front-page.phpによるトップページ構築
