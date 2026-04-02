@@ -24,6 +24,9 @@ kansai-bridge/
 ├── assets/
 ├── style.css
 
+## 📷 スクリーンショット
+![トップページ](screenshot.png)
+
 ⚠️ 注意
 このリポジトリはWordPressテーマのみを含んでいます。
 WordPress本体は含まれていません。
